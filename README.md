@@ -1,5 +1,5 @@
 # Magma
-Magma Is a Free Rust Script That is soon to release on https://soarcheat.xyz
+Magma Is a Free Rust Script That is soon to release on https://soarcheats.xyz
 It Supports: M249,M39,AK,LR-300,Thompston,MP5,M92,Custom SMG,SAR!
 Updated Frequently With: Game Open Checker, M249 Recoil Rewrite as well as Assault Rifle
 ----------------------------------------------------------------------------------------
